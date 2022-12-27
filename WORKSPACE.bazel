@@ -1,0 +1,4 @@
+# WORKSPACE
+workspace(
+  name = 'nofraud_systems'
+)
